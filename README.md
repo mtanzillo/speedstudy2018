@@ -140,4 +140,4 @@ Additional books can be found [here](https://github.com/P1xt/speedstudy/blob/mas
 *   Clone your favorite mobile app, or create one you wish existed.
 *   Any project you want to build - the above are all just ideas for if you're stuck for an idea - really, just build what you want!
 
-This template was copied from [here](https://github.com/P1xt/speedstudy/blob/master/progress-2018/template/template-data-science.md).
+[Source](https://github.com/P1xt/speedstudy/blob/master/progress-2018/template/template-data-science.md).
