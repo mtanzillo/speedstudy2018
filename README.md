@@ -1,4 +1,4 @@
-# Progress towards my learning goals
+# Progress toward my learning goals
 
 ## 2018
 
@@ -7,13 +7,14 @@ following P1xt's [Data Science guide](https://github.com/P1xt/p1xt-guides/blob/m
 
 ## Progress
 
-Current Course:    
+Current Course: <br/>
+Current Book: [Precalculus](https://openstax.org/details/books/precalculus) <br/>
 Courses Completed: 0  
-Total Points earned: 
+Total Points earned: 0
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
-|  |  |  |  |
+| In progress | Book | 200 | [Precalculus](https://openstax.org/details/books/precalculus) |
 
 
 ## Data Science Intensive 
@@ -71,7 +72,6 @@ Total Points earned:
 ## Book Suggestions
 ### Data Science
 
-* [College Algebra](https://openstax.org/details/books/college-algebra)
 * [Precalculus](https://openstax.org/details/books/precalculus)
 * [Think Python](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
 * [Think Stats](http://greenteapress.com/thinkstats2/thinkstats2.pdf)
@@ -126,18 +126,5 @@ Additional books can be found [here](https://github.com/P1xt/speedstudy/blob/mas
 | CodinGame (1 Bot Competition)               | 20                    | algorithms    |
 | HackerRank (10 problems)                    | 50                    | algorithms    |
 | Google Code Jam (1 round from past contest) | 100                   | algorithms    |
-
-## Project ideas
-
-*   Pick a template from [\[here\]](https://freebiesbug.com/psd-freebies/website-template/), [\[here\]](http://www.os-templates.com/free-website-templates), or [\[here\]](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
-*   Complete any 5 projects from [100 Days of CSS](https://100dayscss.com/).
-*   Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose.
-*   Complete a CSS theme for [CSS Zen Garden](http://www.csszengarden.com/)
-*   Clone your favorite non-trivial website such as: Medium, Twitter, Slack, Netflix, Reddit.
-*   Clone a video game such as: Breakout, Tetris, Pacman, Super Mario Bros, Zelda, Final Fantasy.
-*   Complete any project on The Odin Project or FreeCodeCamp.
-*   Clone your favorite browser extension, or create one you wish existed.
-*   Clone your favorite mobile app, or create one you wish existed.
-*   Any project you want to build - the above are all just ideas for if you're stuck for an idea - really, just build what you want!
 
 [Source](https://github.com/P1xt/speedstudy/blob/master/progress-2018/template/template-data-science.md).
