@@ -7,7 +7,7 @@ following P1xt's [Data Science guide](https://github.com/P1xt/p1xt-guides/blob/m
 
 ## Progress
 
-Current Course: [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
+Current Course: [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11) <br />
 Current Book: [Precalculus](https://openstax.org/details/books/precalculus) <br/>
 Courses Completed: 0  
 Total Points earned: 0
